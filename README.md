@@ -11,16 +11,12 @@ We will also be going over the challenges and failures that other campaigns had,
 
 # Analysis and Challenges
 
-![Theater_Outcomes_vs_Launch.png](path/to/Theater_Outcomes_vs_Launch.png.png)
-
 ## Analysis of Outcomes Based on Launch Date:
 Based on the outcome per launch date chart, May and June have the highest count of successful campaigns.
 This can be related to several factors:
 People tend to go out more and be socially active when the weather is nicer, in most countries and States May and June are not too cold nor too warm, it's the spring season where most people are excited to go out.
 The end of the school year is around these months and probably families look for social events where they can take their kids to have a good time, theater and plays can be a great way to have fun. 
 These 2 factors bring more engagement which will surely help Louise's campaign succeed.
-
-![Outcomes_vs_Goals.png](path/to/Outcomes_vs_Goals.png.png)
 
 ## Analysis of Outcomes Based on Goals:
 Campaigns who have $1000 or less goal have the highest success and lowest failure rates.
